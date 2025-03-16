@@ -1,0 +1,4 @@
+add stash 1
+
+add stash 2
+
