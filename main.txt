@@ -2,3 +2,5 @@ add stash 1
 
 add stash 2
 
+Added new line to merge with main
+
